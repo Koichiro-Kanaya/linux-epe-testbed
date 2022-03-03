@@ -1,0 +1,6 @@
+以下の環境を作った
+
+ping.shを実行すると，userからmonにpingが飛び，monがpingのリプライをする時にSIDをencap．
+
+デフォルトではrt1を通るようにSIDがencapされ，rt0においてEnd.DX6されrt1を経由
+
